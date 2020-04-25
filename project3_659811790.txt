@@ -1,0 +1,10 @@
+9
+China
+57
+Japan
+China
+0.0030
+Iceland
+0.0196
+Luxembourg
+0.5301
